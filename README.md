@@ -14,6 +14,10 @@ Follow these steps to set up and run the project on your local machine.
 git clone <repository_url>
 ```
 
+```
+git clone 'Boite-a-Sable/Chat-with-PDF-Chatbot'
+```
+
 ## Create the necessary folders
 ```
 mkdir db
