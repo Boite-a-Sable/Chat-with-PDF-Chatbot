@@ -22,11 +22,13 @@ mkdir docs
 ### Usage 
 
 ## Run the ingestion script to prepare the data
+
 ```
 python ingest.py
 ```
 
 ## Start the chatbot application using Streamlit
+
 ```
 streamlit run chatbot_app.py
 ```
