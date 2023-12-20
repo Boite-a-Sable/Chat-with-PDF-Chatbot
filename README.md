@@ -8,15 +8,25 @@ Follow these steps to set up and run the project on your local machine.
 
 ### Installation
 
-```sh
+<!--```sh -->
 ## Clone the repository
+```
 git clone <repository_url>
+```
 
 ## Create the necessary folders
+```
 mkdir db
+```
+
+```
 mkdir models
+```
+
 ## Add your model files to the 'models' folder
+```
 mkdir docs
+```
 
 ----
 ### Usage 
