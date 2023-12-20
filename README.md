@@ -76,6 +76,7 @@ https://www.youtube.com/watch?v=7CeAJ0EbzDA
 
 Deploy LLM Powered Apps on Azure App Service: Part 2 of the Chatbot Deployment
 https://www.youtube.com/watch?v=vYIlhgVHAls
+
 ---
 
 Using Private Git Repositories¶
