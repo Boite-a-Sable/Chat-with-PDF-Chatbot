@@ -46,3 +46,11 @@ python ingest.py
 ```
 streamlit run chatbot_app.py
 ```
+
+
+### Video Ref.
+Containerizing LLM-Powered Apps: Part 1 of the Chatbot Deployment
+https://www.youtube.com/watch?v=7CeAJ0EbzDA
+
+Deploy LLM Powered Apps on Azure App Service: Part 2 of the Chatbot Deployment
+https://www.youtube.com/watch?v=vYIlhgVHAls
