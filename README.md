@@ -6,6 +6,13 @@ This Chatbot is an interactive app developed to assist users to interact with th
 Follow these steps to set up and run the project on your local machine.
 
 
+## Create a Container LLM
+
+Using Docker Desktop
+```
+docker run--name chat-llm  
+```
+
 ### Installation
 
 <!--```sh -->
