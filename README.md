@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=vYIlhgVHAls
 
 ---
 
-### Using Private Git Repositories\n
+### Using Private Git Repositories
 In general, you do not want your server profiles to be public. Instead, you should persist your server profiles in private git repositories.
 
 To use server profiles with private repositories, you must either:
@@ -94,7 +94,7 @@ For SSH:
 
 Include your keys and known hosts in the image under /home/ping/.ssh.
 
-### Cloning from GitHub using HTTPS\n
+### Cloning from GitHub using HTTPS
 Creating a GitHub Access Token\n
 
 In GitHub, go to Settings --> Developer Settings --> Personal access tokens.
@@ -106,7 +106,7 @@ Copy the token to a secure location. You won't be able to view the token again.
 
 At the bottom of the page, click Generate Token.
 
-### Using The Token In YAML\n
+### Using The Token In YAML
 To use the token in your YAML file, include it in the SERVER_PROFILE_URL environment variable using this format:
 
 https://<github-username>:<github-token>@github.com/<your-repository>.git
@@ -123,7 +123,7 @@ When using layered server profiles, each layer can use the base user and passwor
 
 For example, for a license server profile layer, you can use the SERVER_PROFILE_LICENSE_GIT_USER and SERVER_PROFILE_LICENSE_GIT_PASSWORD variables, and substitute for those variables using values defined in your YAML files.
 
-### Cloning using SSH\n
+### Cloning using SSH
 To clone using SSH, you can mount the necessary keys and known hosts files using a volume at /home/ping/.ssh, the home directory of the default user in our product images.
 To clone from GitHub, you must add the necessary SSH keys to your account through the account settings page.
 
