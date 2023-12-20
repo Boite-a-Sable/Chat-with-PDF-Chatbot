@@ -35,7 +35,7 @@ docker run chatbotimg
 ```
 git clone <repository_url>
 ```
-<> Code > Local > Clone - Use Git or checkout with SVN using the web URL  -->  Copy URL
+<> Code > Local > >_Clone - Use Git or checkout with SVN using the web URL  -->  Copy URL
 ```
 git clone https://github.com/Boite-a-Sable/Chat-with-PDF-Chatbot.git
 ```
