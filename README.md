@@ -7,10 +7,25 @@ Follow these steps to set up and run the project on your local machine.
 
 
 ## Create a Container LLM
+```
+--namme chatbotimg 
+```
+
+```
+pip install -r requirements.txt --default-timeout=100 future
+```
+
+```
+sudo docker build -t chatbotimg .
+```
+
+```
+docker images
+```
 
 Using Docker Desktop
 ```
-docker run--name chat-llm  
+docker run chatbotimg  
 ```
 
 ### Installation
