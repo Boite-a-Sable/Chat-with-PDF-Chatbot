@@ -37,7 +37,7 @@ git clone <repository_url>
 ```
 
 ```
-git clone https://github.com/Boite-a-Sable/Chat-with-PDF-Chatbot/
+git clone https://github.com/Boite-a-Sable/Chat-with-PDF-Chatbot.git
 ```
 
 ## Create the necessary folders
