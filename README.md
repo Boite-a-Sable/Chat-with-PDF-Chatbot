@@ -8,7 +8,7 @@ Follow these steps to set up and run the project on your local machine.
 
 ## Create a Container LLM
 ```
---namme chatbotimg 
+docker --name chatbotimg 
 ```
 
 ```
